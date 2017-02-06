@@ -1,0 +1,3 @@
+zip -o ./MFRC522.zip ./MFRC522.h ./MFRC522.cpp
+  adding: MFRC522.h (deflated 69%)
+  adding: MFRC522.cpp (deflated 75%)
